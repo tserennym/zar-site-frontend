@@ -1,1 +1,1 @@
- https://zar-site.vercel.app
+ https://zar-site-frontend
